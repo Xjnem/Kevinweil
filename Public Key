@@ -1,0 +1,22 @@
+# Kevinweil
+Public key for verification
+public_key . pem
+# Public Key for Verification
+
+This repository contains a public key to verify a digital signature associated with a message for Kevin Weil.
+
+## How to Verify:
+
+1. Download `public_key.pem`.
+2. Use this key to verify the signature provided in our conversation.
+3. This ensures authenticity and proof of interaction.
+
+Public Key: -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs828d7DaHxx/lnX0mGFF
+3jETBmT6/ve0cm6lS1yk7EZy09nREopYNycwvBFw+I6bv23+xrzJNGbIVqttP5US
+5dDX590sqZRp6B0ihq4LjwOC9Ig1SmrFPbB5tVk29yFguRn3WZP01G/jAG9Yk6J1
+z6ZX+fysqzryNlHH+2i4jKZ7yqlRDUAsJ3hWMIv96xiv7h3cQSGHyQEfMB7TQiBB
+fKkVYIiv5jN5izvqQsOmhd2GNIRzZpEqFMh53EWC7FwSjTzIbZUC+Jc1Q3W2xiLx
+7oIO1/MjPIN40ggvN9crfnbT0hOXtoe3GDAme9w2SNCbrnwcH3WSW5HWp/rgEvdI
+twIDAQAB
+-----END PUBLIC KEY-----
